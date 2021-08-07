@@ -1,8 +1,9 @@
 import React from 'react';
+import s from './Profile.module.css';
 
 function Profile() {
     return (
-      <div className="content">
+      <div className={s.content}>
       <div>
         <img src="https://i.ytimg.com/vi/uKntdthpcCY/maxresdefault.jpg"></img>
       </div>
