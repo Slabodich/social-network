@@ -2,3 +2,7 @@
   grid-area: c;
   background-color:chartreuse;
 }
+
+.ava img{
+  width: 100px;
+}
